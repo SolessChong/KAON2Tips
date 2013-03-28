@@ -1,0 +1,10 @@
+KAON2 is a light-weight Description Locig reasoner based on Java.
+
+It's an excellent software, however poor documented. Only some basic functions are comprehensively documented.
+
+Below are tips for some specific details in using KAON2. It's being logged during the process of developing an ontology-based project in Media Lab, PKU.
+
+Hope you enjoy it.
+
+Please visit the blog for more details on this code.
+http://blog.solesschong.com/?p=370
